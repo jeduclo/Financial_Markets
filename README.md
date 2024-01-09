@@ -1,6 +1,6 @@
 Description
 
-"Exploring Financial Markets" is a comprehensive Streamlit application designed to provide an in-depth and interactive analysis of various financial market segments. This tool is for anyone interested in understanding the dynamics of financial markets. The data is instantly downloaded from yahoo finance and is meant for euducational purposes
+"Exploring Financial Markets" is a comprehensive Streamlit application designed to provide an in-depth and interactive analysis of various financial market segments. This tool is for anyone interested in understanding the dynamics of financial markets. The data is instantly downloaded from yahoo finance and is meant for educational purposes
 
 Key Features
 The app includes several modules, each focusing on a different aspect of the financial markets:
